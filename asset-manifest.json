@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fewd-coursework1/static/css/main.49a1b37b.css",
+    "main.js": "/fewd-coursework1/static/js/main.1a9f1f07.js",
+    "static/js/496.f1cb68a8.chunk.js": "/fewd-coursework1/static/js/496.f1cb68a8.chunk.js",
+    "static/media/header_bg.jpg": "/fewd-coursework1/static/media/header_bg.ae2d3cab2227c903f22c.jpg",
+    "static/media/cooking.gif": "/fewd-coursework1/static/media/cooking.18e99dcd70cd5b19c3a1.gif",
+    "static/media/CentraNo2-Bold.ttf": "/fewd-coursework1/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/fewd-coursework1/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/fewd-coursework1/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/restaurant.jpg": "/fewd-coursework1/static/media/restaurant.c8ef69ef024524380065.jpg",
+    "static/media/revicons.eot": "/fewd-coursework1/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/fewd-coursework1/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/fewd-coursework1/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/fewd-coursework1/index.html",
+    "main.49a1b37b.css.map": "/fewd-coursework1/static/css/main.49a1b37b.css.map",
+    "main.1a9f1f07.js.map": "/fewd-coursework1/static/js/main.1a9f1f07.js.map",
+    "496.f1cb68a8.chunk.js.map": "/fewd-coursework1/static/js/496.f1cb68a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a1b37b.css",
+    "static/js/main.1a9f1f07.js"
+  ]
+}
