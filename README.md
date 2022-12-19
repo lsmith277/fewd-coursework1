@@ -13,3 +13,6 @@ The nutritional information modal allows you to rate the recipe, as well as view
 To view your shopping list, go to the top right of the navbar and click "Shopping List", this will open a modal with each ingredient added to your shopping list. Each ingredient can be removed from the list by clicking the included button. The shopping list needs to be reopened for changes to take affect.
 
 Viewing the menu is the same as above, except the button is "Menu".
+
+### Viewing the application
+The application is deployed live at https://lsmith277.github.io/fewd-coursework1/
